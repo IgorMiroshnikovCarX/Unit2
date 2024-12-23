@@ -64,7 +64,9 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.44f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\unit_2_3_third_script.cs" />
     <Compile Include="Assets\first_script.cs" />
+    <Compile Include="Assets\unit_2_2_second_script.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
